@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="search">Search</string>
+    <string name="search_hint">search</string>
+    <string name="no_result">No Result</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="location">location</string>
+    <string name="_0">0</string>
+    <string name="repository">repository</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="carrier">carrier</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+</resources>
